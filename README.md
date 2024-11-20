@@ -8,6 +8,11 @@
 In practice, this custom GPT can assist a wide range of users—from AI researchers modeling intelligent agents in virtual spaces, to cognitive psychologists studying perception in VR, or even game developers designing complex interactions between virtual characters. For instance, if a researcher wants to understand how a virtual character might process information differently than a human in a real-world setting, the GPT can explain how the semantics of "knowledge" or "action" change in virtual contexts. By drawing connections between VM-theory and concrete applications, it enables users to better navigate the complexities of formal logic in virtual systems.
 
 #
+### Computer Machines
+
+The term "machine" is rarely used to describe computer hardware in everyday language, as the word traditionally evokes images of purely mechanical devices like gears, engines, and tools. While technically correct—since a computer is a device performing tasks via energy conversion—the association of "machine" with physical, mechanical systems makes it an uncommon descriptor for computers. However, in specialized contexts like computing, the term gains prominence, such as with "virtual machine" (VM). A virtual machine refers to software that emulates a physical computer, enabling multiple "machines" to operate independently on a single physical device. This terminology highlights the abstraction of computational resources as "machines," even though the concept is far removed from traditional mechanics. Overall, "computer" and "device" dominate in popularity for describing hardware in common usage, with "machine" being reserved for niche or technical discussions.
+
+#
 ### Virtual Logic
 
 Virtual Logic extends traditional logic to deal with the dynamic and interactive nature of virtual environments. Unlike classical logic, which assumes a static set of objects and relationships, virtual logic accommodates virtual objects that may change over time, appear, disappear, or even behave inconsistently based on context. It provides a framework to formalize and reason about virtual worlds, where the truth of statements is often contextual, depending on the current state of the virtual environment. For example, a virtual door may be "open" at one moment but "closed" after an action, and virtual logic allows for the formal representation of such transitions.
